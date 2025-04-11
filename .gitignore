@@ -26,6 +26,8 @@ go.work.sum
 
 # CS2 demo files
 *.dem
+/in/
+/out/
 
 # .wav files
 *.wav
